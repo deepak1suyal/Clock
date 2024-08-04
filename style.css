@@ -4,8 +4,9 @@ html{
 }
 .p{position:relative;
    background-color:#7adb18;
-    width:90vw;
-   height:90vw;
+    width:65vw;
+   height:65vw;
+   
   background:url(ta01.jpg) no-repeat;
   background-size:100%;
   border:2px solid #79e82e;
@@ -19,25 +20,25 @@ width:5px;
 
 }
 .s{width:2px;
-top:15vw;
+top:10vw;
 background:#f00eb7;
 
-  left:44.97vw;
+  left:32.5vw;
 opacity:0.8;
-transform-origin:0px 116.5px ;
+transform-origin:0px 118.2px ;
    
 }
 .m{width :3.5px;
-  left:45.68vw;
-  bottom:23vw;
+  left:32.5vw;
+  bottom:18vw;
   opacity:0.8;
 background:red;
 
-transform-origin:0px 116.5px ;
+transform-origin:0px 118.5px ;
 }
 .h{height:100px;
-   bottom:50vw;
-  left:47.48vw;
+   bottom:38vw;
+  left:32.5vw;
 background:#2e8bf0;
 
   transform-origin:0px 77.66px ;
